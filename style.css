@@ -12,7 +12,7 @@ body {
   border: 1px solid #e5e7eb;
   border-radius: 14px;
 }
-h1 { color: #d71920; margin-bottom: 4px; }
+h1 { color: #00aa88; margin-bottom: 4px; }
 .subtitle { color: #5a6472; }
 .task-form { display: flex; gap: 8px; margin-top: 20px; }
 input { flex: 1; padding: 10px; }
